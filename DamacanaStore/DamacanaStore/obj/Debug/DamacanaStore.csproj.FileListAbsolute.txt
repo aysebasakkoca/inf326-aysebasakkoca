@@ -58,6 +58,5 @@ C:\Users\Ottoman\Documents\Visual Studio 2013\Projects\DamacanaStore\DamacanaSto
 C:\Users\Ottoman\Documents\Visual Studio 2013\Projects\DamacanaStore\DamacanaStore\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Ottoman\Documents\Visual Studio 2013\Projects\DamacanaStore\DamacanaStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Ottoman\Documents\Visual Studio 2013\Projects\DamacanaStore\DamacanaStore\bin\System.Web.Http.Owin.xml
-C:\Users\Ottoman\Documents\Visual Studio 2013\Projects\DamacanaStore\DamacanaStore\obj\Debug\DamacanaStore.csprojResolveAssemblyReference.cache
 C:\Users\Ottoman\Documents\Visual Studio 2013\Projects\DamacanaStore\DamacanaStore\obj\Debug\DamacanaStore.dll
 C:\Users\Ottoman\Documents\Visual Studio 2013\Projects\DamacanaStore\DamacanaStore\obj\Debug\DamacanaStore.pdb

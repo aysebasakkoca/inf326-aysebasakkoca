@@ -1,18 +1,19 @@
 ﻿using System.ComponentModel.DataAnnotations;
-
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
 namespace DamacanaStore.Models
 {
     public class Purchase
     {
         public int Id { get; set; }
-        [Required]
-        public string Title { get; set; }
-        public dynamic Date { get; set; }
+        public DateTime CreatedOn { get; set; }
         public decimal TotalPrice { get; set; }
-       
+
+        public List<Product> PurchaseList { get; set; }
         // Foreign Key
-        public int ProductId { get; set; }
-        // Navigation property
-        public Product Product { get; set; }
+        public virtual Product Product { get; set; }
+        public virtual ShoppingCart ShoppingCart { get; set; }
     }
 }

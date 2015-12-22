@@ -60,3 +60,7 @@ C:\Users\Ottoman\Documents\Visual Studio 2013\Projects\DamacanaStore\DamacanaSto
 C:\Users\Ottoman\Documents\Visual Studio 2013\Projects\DamacanaStore\DamacanaStore\bin\System.Web.Http.Owin.xml
 C:\Users\Ottoman\Documents\Visual Studio 2013\Projects\DamacanaStore\DamacanaStore\obj\Debug\DamacanaStore.dll
 C:\Users\Ottoman\Documents\Visual Studio 2013\Projects\DamacanaStore\DamacanaStore\obj\Debug\DamacanaStore.pdb
+C:\Users\Ottoman\Documents\Visual Studio 2013\Projects\DamacanaStore\DamacanaStore\obj\Debug\DamacanaStore.csprojResolveAssemblyReference.cache
+C:\Users\Ottoman\Documents\Visual Studio 2013\Projects\DamacanaStore\DamacanaStore\obj\Debug\DamacanaStore.Migrations.Initial.resources
+C:\Users\Ottoman\Documents\Visual Studio 2013\Projects\DamacanaStore\DamacanaStore\obj\Debug\DamacanaStore.csproj.GenerateResource.Cache
+C:\Users\Ottoman\Documents\Visual Studio 2013\Projects\DamacanaStore\DamacanaStore\obj\Debug\DamacanaStore.Migrations.Initial1.resources
